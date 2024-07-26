@@ -1,0 +1,48 @@
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.pdb
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.exe
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.pdb
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Dashboard.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Fees.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Home.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Students.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Subject.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Teachers.resources
+C:\Users\asus\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Login.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe.config
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.pdb
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Dashboard.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Fees.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Home.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Login.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Students.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Subject.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Teachers.resources
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.exe
+C:\Users\asus\Desktop\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.pdb
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe.config
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.pdb
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.AssemblyReference.cache
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Dashboard.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Fees.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Home.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Login.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Students.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Subject.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Teachers.resources
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.GenerateResource.cache
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.CoreCompileInputs.cache
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.exe
+D:\E\Projects\Tution class managment system\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.pdb
